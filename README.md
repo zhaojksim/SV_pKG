@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-Apache2.0-yellow)
 ## Overview
 SV_pKG is a computational framework for the Shapley value (SV) based sensitivity analysis on policy-augmented knowledge graphical (pKG) hybrid model in the context of biomanufacturing. It aims to quantify the impact various input variables in bioprocess on the output of interest. Currently, it includes three illustrative Jupyter files:
-## Performance_comparison 
+## Performance comparison 
    The source code of 4 kinds of permutation sampling methods and performance comparison based on the linear Gaussian pKG model:
    - Box-Muller Transformation
    - Spherical Coordinate Transformation
