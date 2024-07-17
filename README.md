@@ -1,6 +1,6 @@
 # SV_pKG
 ![Language](https://img.shields.io/badge/language-JupyterNotebook-brightgreen)
-![License](https://img.shields.io/badge/license-Apache-2.0-yellow)
+![License](https://img.shields.io/badge/license-Apache2.0-yellow)
 ## Overview
 SV_pKG is a computational framework for the Shapley value (SV) based sensitivity analysis on policy-augmented knowledge graphical (pKG) hybrid model in the context of biomanufacturing. It aims to quantify the impact various input variables in bioprocess on the output of interest. Currently, it includes three illustrative Jupyter files:
 ## Performance_comparison 
