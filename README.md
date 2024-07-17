@@ -9,9 +9,12 @@ SV_pKG is a computational framework for the Shapley value (SV) based sensitivity
    - Spherical Coordinate Transformation
    - TFWW Transfermation
    - TFWW Transfermation + Variance Reduction Techniques
+## SV nonlinear
+   The source code of SV analysis on the nonlinear pKG model, including 2 types of input variables:
+   - Random inputs
+   - Policy parameters
 ## SV linear
    The source code of SV analysis on the linear Gaussian pKG model, including:
    - SV calculation for random inputs with analytical formula
    - SV estimation for policy parameters with reusing calculation
-## SV nonlinear
-   The source code of SV analysis on the nonlinear pKG model
+
